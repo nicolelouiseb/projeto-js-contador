@@ -1,6 +1,6 @@
 var currentNumberWrapper = document.getElementById('currentNumber');
 var currentNumber=0
-var i = currentNumber;
+
 
 function add(){
     currentNumberWrapper.innerHTML = currentNumber + 1;
